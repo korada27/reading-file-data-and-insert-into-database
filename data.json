@@ -1,0 +1,33 @@
+[
+{
+	"Id":6,
+	"StartDateTime":"1992-08-09 07:42:28",
+	"EndDateTime":"1993-08-09 07:42:28",
+	"Status":205,
+	"ApplicationName":"New1",
+	"CreatedBy":"Miracle",
+	"CreatedOn":"2016-08-09 07:42:28",
+	"ModifiedOn":"2016-08-09 07:42:28",
+	"ModifiedBy":"MSS",
+	"IsDeleted":true,
+	"Configuration_Id":6,
+	"SignOffUser":"Yes"
+
+},
+
+{
+	"Id":7,
+	"StartDateTime":"1994-08-09 07:42:28",
+	"EndDateTime":"1995-08-09 07:42:28",
+	"Status":206,
+	"ApplicationName":"New2",
+	"CreatedBy":"Lenovo",
+	"CreatedOn":"2017-08-09 07:42:28",
+	"ModifiedOn":"2019-08-09 07:42:28",
+	"ModifiedBy":"Redmi",
+	"IsDeleted":true,
+	"Configuration_Id":7,
+	"SignOffUser":"No"
+
+}
+]
